@@ -1,13 +1,14 @@
-import { useRouter } from 'next/router';
-import React from 'react';
-
 export default function Index() {
-    const router = useRouter()
-    return (
-        <>
-            <div className="p-10">
-                <h1 className='text-4xl font-bold mb-10'>{router.pathname}</h1>
-            </div>
-        </>
-    )
+  return (
+    <>
+      <div className="p-10 prose ">
+        <h1>Barcode Detection API</h1>
+        <p>
+          The Barcode Detection API detects linear and two-dimensional barcodes
+          in images.
+        </p>
+        <div className="bg-slate-900 text-white p-5 rounded-lg"></div>
+      </div>
+    </>
+  );
 }

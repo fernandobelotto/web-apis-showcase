@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Background Fetch API",
+    "page": "backgroundFetchApi",
+    "experimental": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Background_Fetch_API"
+  },
+  {
+    "name": "Background Tasks",
+    "page": "backgroundTasks",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Background_Tasks_API"
+  },
+  {
+    "name": "Barcode Detection API",
+    "page": "barcodeDetectionApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API"
+  },
+  {
+    "name": "Battery API",
+    "deprecated": true,
+    "page": "batteryApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API"
+  },
+  {
+    "name": "Beacon",
+    "page": "beacon",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API"
+  },
+  {
+    "name": "Bluetooth API",
+    "experimental": true,
+    "page": "bluetoothApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API"
+  },
+  {
+    "name": "Broadcast Channel API",
+    "page": "broadcastChannelApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API"
+  },
+  {
+    "name": "CSS Counter Styles",
+    "experimental": true,
+    "page": "cssCounterStyles",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Counter_Styles"
+  },
+  {
+    "name": "CSS Font Loading API",
+    "page": "cssFontLoadingApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API"
+  },
+  {
+    "name": "CSS Painting API",
+    "page": "cssPaintingApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API"
+  },
+  {
+    "name": "CSS Typed Object Model API",
+    "page": "cssTypedObjectModelApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Typed_OM_API"
+  },
+  {
+    "name": "CSSOM",
+    "page": "cssom",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model"
+  },
+  {
+    "name": "Canvas API",
+    "page": "canvasApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
+  },
+  {
+    "name": "Channel Messaging API",
+    "page": "channelMessagingApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API"
+  },
+  {
+    "name": "Clipboard API",
+    "page": "clipboardApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API"
+  },
+  {
+    "name": "Console API",
+    "page": "consoleApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Console_API"
+  },
+  {
+    "name": "Contact Picker API",
+    "page": "contactPickerApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Contact_Picker_API"
+  },
+  {
+    "name": "Content Index API",
+    "page": "contentIndexApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Content_Index_API"
+  },
+  {
+    "name": "Credential Management API",
+    "experimental": true,
+    "page": "credentialManagementApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API"
+  },
+  {
+    "name": "DOM",
+    "page": "dom",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+  },
+  {
+    "name": "Encoding API",
+    "page": "encodingApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Encoding_API"
+  },
+  {
+    "name": "Encrypted Media Extensions",
+    "page": "encryptedMediaExtensions",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Encrypted_Media_Extensions_API"
+  },
+  {
+    "name": "EyeDropper API",
+    "experimental": true,
+    "page": "eyeDropperApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/EyeDropper_API"
+  },
+  {
+    "name": "Fetch API",
+    "page": "fetchApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+  },
+  {
+    "name": "File System Access API",
+    "page": "fileSystemAccessApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API"
+  },
+  {
+    "name": "File and Directory Entries API",
+    "page": "",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/File_and_Directory_Entries_API"
+  },
+  {
+    "name": "Fullscreen API",
+    "page": "fullscreenApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API"
+  },
+  {
+    "name": "Gamepad API",
+    "page": "gamepadApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API"
+  },
+  {
+    "name": "Geolocation API",
+    "page": "geolocationApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"
+  },
+  {
+    "name": "HTML DOM",
+    "page": "htmlDom",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API"
+  },
+  {
+    "name": "HTML Drag and Drop API",
+    "page": "htmlDragAndDropApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API"
+  },
+  {
+    "name": "HTML Sanitizer API",
+    "experimental": true,
+    "page": "htmlSanitizerApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API"
+  },
+  {
+    "name": "High Resolution Time",
+    "page": "highResolutionTime",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API"
+  },
+  {
+    "name": "History API",
+    "page": "historyApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/History_API"
+  },
+  {
+    "name": "Image Capture API",
+    "experimental": true,
+    "page": "imageCaptureApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API"
+  },
+  {
+    "name": "IndexedDB",
+    "page": "indexedDB",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API"
+  },
+  {
+    "name": "Intersection Observer API",
+    "page": "intersectionObserverApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API"
+  },
+  {
+    "name": "Layout Instability API",
+    "page": "layoutInstabilityApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Layout_Instability_API"
+  },
+  {
+    "name": "Long Tasks API",
+    "page": "longTasksApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API"
+  },
+  {
+    "name": "Media Capabilities API",
+    "page": "mediaCapabilitiesApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API"
+  },
+  {
+    "name": "Media Capture and Streams",
+    "page": "mediaCaptureAndStreams",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API"
+  },
+  {
+    "name": "Media Session API",
+    "page": "mediaSessionApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API"
+  },
+  {
+    "name": "Media Source Extensions",
+    "page": "mediaSourceExtensions",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API"
+  },
+  {
+    "name": "MediaStream Recording",
+    "page": "mediaStreamRecording",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"
+  },
+  {
+    "name": "Navigation Timing",
+    "page": "navigationTiming",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API"
+  },
+  {
+    "experimental": true,
+    "name": "Network Information API",
+    "page": "networkInformationApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API"
+  },
+  {
+    "name": "Page Visibility API",
+    "page": "pageVisibilityApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API"
+  },
+  {
+    "name": "Payment Request API",
+    "page": "paymentRequestApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API"
+  },
+  {
+    "name": "Performance API",
+    "page": "performanceApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API"
+  },
+  {
+    "name": "Performance Timeline API",
+    "page": "performanceTimelineApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Performance_Timeline"
+  },
+  {
+    "name": "Periodic Background Sync",
+    "page": "periodicBackgroundSync",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Periodic_Background_Synchronization_API"
+  },
+  {
+    "name": "Permissions API",
+    "page": "permissionsApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API"
+  },
+  {
+    "name": "Picture-in-Picture API",
+    "page": "pictureInPictureApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API"
+  },
+  {
+    "name": "Pointer Events",
+    "page": "pointerEvents",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events"
+  },
+  {
+    "name": "Pointer Lock API",
+    "page": "pointerLockApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API"
+  },
+  {
+    "name": "Presentation API",
+    "experimental": true,
+    "page": "presentationApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API"
+  },
+  {
+    "name": "Proximity Events",
+    "page": "proximityEvents",
+    "deprecated": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events"
+  },
+  {
+    "name": "Push API",
+    "page": "pushApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Push_API"
+  },
+  {
+    "name": "Resize Observer API",
+    "page": "resizeObserverApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API"
+  },
+  {
+    "name": "Resource Timing API",
+    "page": "resourceTimingApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API"
+  },
+  {
+    "name": "Screen Capture API",
+    "page": "screenCaptureApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API"
+  },
+  {
+    "name": "Screen Orientation API",
+    "page": "screenOrientationApi",
+    "experimental": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Orientation_API"
+  },
+  {
+    "name": "Screen Wake Lock API",
+    "page": "screenWakeLockApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API"
+  },
+  {
+    "name": "Sensor API",
+    "page": "sensorApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"
+  },
+  {
+    "name": "Server Sent Events",
+    "page": "serverSentEvents",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events"
+  },
+  {
+    "name": "Service Workers API",
+    "page": "serviceWorkersApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API"
+  },
+  {
+    "name": "Storage",
+    "page": "storage",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Storage_API"
+  },
+  {
+    "name": "Storage Access API",
+    "page": "storageAccessApi",
+    "experimental": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Storage_Access_API"
+  },
+  {
+    "name": "Streams",
+    "page": "streams",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"
+  },
+  {
+    "name": "Touch Events",
+    "page": "touchEvents",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Touch_events"
+  },
+  {
+    "name": "URL API",
+    "page": "urlApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/URL_API"
+  },
+  {
+    "name": "URL Pattern API",
+    "page": "urlPatternApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API"
+  },
+  {
+    "name": "Vibration API",
+    "page": "vibrationApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API"
+  },
+  {
+    "name": "Visual Viewport",
+    "page": "visualViewport",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API"
+  },
+  {
+    "name": "Web Animations",
+    "page": "webAnimations",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API"
+  },
+  {
+    "name": "Web Audio API",
+    "page": "webAudioApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API"
+  },
+  {
+    "name": "Web Authentication API",
+    "page": "webAuthenticationApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API"
+  },
+  {
+    "name": "Web Crypto API",
+    "page": "webCryptoApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API"
+  },
+  {
+    "name": "Web MIDI API",
+    "page": "webMidiApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API"
+  },
+  {
+    "name": "Web Notifications",
+    "page": "webNotifications",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API"
+  },
+  {
+    "name": "Web Share API",
+    "page": "webShareApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API"
+  },
+  {
+    "name": "Web Speech API",
+    "page": "webSpeechApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API"
+  },
+  {
+    "name": "Web Storage API",
+    "page": "webStorageApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API"
+  },
+  {
+    "name": "Web Workers API",
+    "page": "webWorkersApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API"
+  },
+  {
+    "name": "WebCodecs API",
+    "page": "webCodecsApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API"
+  },
+  {
+    "name": "WebGL",
+    "page": "webGl",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"
+  },
+  {
+    "name": "WebHID API",
+    "page": "webHidApi",
+    "experimental": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
+  },
+  {
+    "name": "WebRTC",
+    "page": "webRtc",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API"
+  },
+  {
+    "name": "WebVR API",
+    "page": "webVrApi",
+    "deprecated": true,
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API"
+  },
+  {
+    "name": "WebVTT",
+    "page": "webVtt",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API"
+  },
+  {
+    "name": "WebXR Device API",
+    "page": "webXrDeviceApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API"
+  },
+  {
+    "name": "Websockets API",
+    "page": "websocketsApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+  },
+  {
+    "name": "Window Controls Overlay API",
+    "experimental": true,
+    "page": "windowControlsOverlayApi",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Window_Controls_Overlay_API"
+  },
+  {
+    "name": "XMLHttpRequest",
+    "page": "xmlHttpRequest",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest"
+  }
+]
