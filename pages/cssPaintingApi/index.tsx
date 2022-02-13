@@ -6,7 +6,7 @@ export default function Index() {
         <p>
           The CSS Painting API — part of the CSS Houdini umbrella of APIs —
           allows developers to write JavaScript functions that can draw directly
-          into an element's background, border, or content.
+          into an elements background, border, or content.
         </p>
       </div>
     </>
