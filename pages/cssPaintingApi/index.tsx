@@ -1,12 +1,13 @@
-import { useRouter } from "next/router";
-import React from "react";
-
 export default function Index() {
-  const router = useRouter();
   return (
     <>
-      <div className="p-10">
-        <h1 className="text-4xl font-bold mb-10">{router.pathname}</h1>
+      <div className="p-10 prose">
+        <h1>CSS Painting API</h1>
+        <p>
+          The CSS Painting API — part of the CSS Houdini umbrella of APIs —
+          allows developers to write JavaScript functions that can draw directly
+          into an element's background, border, or content.
+        </p>
       </div>
     </>
   );

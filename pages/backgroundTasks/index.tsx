@@ -1,8 +1,8 @@
 export default function Index() {
   return (
     <>
-      <div className="p-10 prose ">
-        <h1>URL API</h1>
+      <div className="p-10 prose">
+        <h1>Background Task API</h1>
         <p>
           The Cooperative Scheduling of Background Tasks API (also referred to
           as the Background Tasks API or the requestIdleCallback() API) provides

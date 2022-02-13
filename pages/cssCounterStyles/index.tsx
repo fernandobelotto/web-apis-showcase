@@ -1,12 +1,12 @@
-import { useRouter } from "next/router";
-import React from "react";
-
 export default function Index() {
-  const router = useRouter();
   return (
     <>
-      <div className="p-10">
-        <h1 className="text-4xl font-bold mb-10">{router.pathname}</h1>
+      <div className="p-10 prose">
+        <h1>CSS Counter Styles</h1>
+        <p>
+          The CSS Counter Styles module allows to define custom counter styles,
+          which can be used for CSS list-marker and generated-content counters.
+        </p>
       </div>
     </>
   );

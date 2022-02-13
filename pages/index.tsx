@@ -6,12 +6,14 @@ export default function index() {
       <div className="p-10">
         <div className="flex flex-row justify-between">
           <div>
-            <h1 className="text-4xl font-bold mb-5">WEB Api's</h1>
-            <h3 className="text-xl  mb-10">work in progress</h3>
+            <h1 className="text-4xl font-bold mb-5">WEB Apis</h1>
+            <h3 className="text-xl  mb-10 text-gray-600">work in progress</h3>
           </div>
           <div>
-            <p className="p-1 bg-green-300 text-center rounded">experimental</p>
-            <p className="p-1 bg-red-300 text-center mt-1 rounded">
+            <p className="p-1 text-green-800 bg-green-300 text-center rounded">
+              experimental
+            </p>
+            <p className="p-1 text-red-800 bg-red-300 text-center mt-1 rounded">
               deprecated
             </p>
           </div>
